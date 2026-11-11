@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:FF6B00&height=200&section=header&text=Jastin%20Lim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=60&descSize=20" alt="header" />
+<img src="https://raw.githubusercontent.com/JazeL2304/JazeL2304/main/banner.svg" alt="Jastin Lim - Fullstack Developer | Frontend Enthusiast" width="100%" />
 
-<a href="https://github.com/JazeL2304">
-  <img src="https://wsrv.nl/?url=github.com/JazeL2304.png&w=240&h=240&fit=cover&mask=circle" width="110" alt="Jastin Lim" />
-</a>
-
-<br/><br/>
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jastin+Lim;Fullstack+Developer+%7C+Frontend+Enthusiast;Building+clean+and+interactive+web+experiences;Open+to+Internship+%2F+Full-time+%2F+Freelance" alt="Typing SVG" />
