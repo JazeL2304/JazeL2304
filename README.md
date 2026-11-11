@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JazeL2304/JazeL2304/main/banner.svg" alt="Jastin Lim - Fullstack Developer | Frontend Enthusiast" width="100%" />
+<img src="https://raw.githubusercontent.com/JazeL2304/JazeL2304/main/banner.svg?v=3" alt="Jastin Lim - Fullstack Developer | Frontend Enthusiast" width="100%" />
 
 <br/>
 
