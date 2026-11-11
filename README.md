@@ -2,11 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:FF6B00&height=200&section=header&text=Jastin%20Lim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=60&descSize=20" alt="header" />
 
+<a href="https://github.com/JazeL2304">
+  <img src="https://wsrv.nl/?url=github.com/JazeL2304.png&w=240&h=240&fit=cover&mask=circle" width="110" alt="Jastin Lim" />
+</a>
+
+<br/><br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jastin+Lim;Fullstack+Developer+%7C+Frontend+Enthusiast;Building+clean+and+interactive+web+experiences;Open+to+Internship+%2F+Full-time+%2F+Freelance" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
+
+<a href="https://github.com/JazeL2304"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jastin-lim-30a20228a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/jast.lim"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram" /></a>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JazeL2304&label=Profile%20Views&color=FF6B00&labelColor=0A0A0A&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/JazeL2304?style=for-the-badge&logo=github&color=FF6B00&labelColor=0A0A0A)
@@ -109,10 +121,8 @@ Karya lainnya ada di [portofolio saya](https://jastin-lim-portfolio.vercel.app/)
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jastin-lim-30a20228a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/jast.lim"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram" /></a>
 <a href="https://jastin-lim-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio" /></a>
-<a href="mailto:jastinim2304@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
+<a href="mailto:jastinlim2304@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
 
 <br/>
 
