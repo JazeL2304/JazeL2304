@@ -10,12 +10,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/JazeL2304"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/jastin-lim-30a20228a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/jast.lim"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram" /></a>
-
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=JazeL2304&label=Profile%20Views&color=FF6B00&labelColor=0A0A0A&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/JazeL2304?style=for-the-badge&logo=github&color=FF6B00&labelColor=0A0A0A)
 
@@ -117,6 +111,8 @@ Karya lainnya ada di [portofolio saya](https://jastin-lim-portfolio.vercel.app/)
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/jastin-lim-30a20228a/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/jast.lim"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram" /></a>
 <a href="https://jastin-lim-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=0A0A0A" alt="Portfolio" /></a>
 <a href="mailto:jastinlim2304@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="Email" /></a>
 
